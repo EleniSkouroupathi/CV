@@ -35,10 +35,6 @@ BEng in Civil Engineering
 
 ## Work Experience
 
-### Makers Academy, London (October 2015 - January 2016)
-
-Highly selective 12 week intensive coding bootcamp.
-
 **Consultant Intern**, Hyder Consulting: July 2013 - August 2013
 
 Attended meetings with clients and site investigations. Proofread documents for errors. Created structural drawings for my mentor to use in meetings.
