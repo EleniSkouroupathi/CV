@@ -5,7 +5,7 @@ An enthusiastic individual with a passion for all things software. How it works,
 ## Code Examples
 
 | Project Name | Description  |
-| ------------ |:------------:|
+| ------------ |:------------ |
 | [GymBuddy](https://github.com/ChukaEbi/GymBuddy)| GymBuddy is a mobile phone application which looks for a potential gym partner dependent on factors specified by the user. Built using Ionic, AngularJS Firebase, and Google Maps API .|
 | col 2 is     | centered     |
 | zebra stripes| are neat     |
