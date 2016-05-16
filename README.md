@@ -7,8 +7,7 @@ An enthusiastic individual with a passion for all things software. How it works,
 | Project Name | Description  |
 | ------------ |:------------ |
 | [GymBuddy](https://github.com/ChukaEbi/GymBuddy)| GymBuddy is a mobile phone application which looks for a potential gym partner dependent on factors specified by the user. Built using Ionic, AngularJS Firebase, and Google Maps API .|
-| col 2 is     | centered     |
-| zebra stripes| are neat     |
+| [NotByPlane](https://github.com/EleniSkouroupathi/not-by-plane)| A web application that displays multiple modes of transportation to the user, and compares the prices and journey times. Built using JQuery, JavaScript, Angular, and Bootstrap. |
 
 ## Technical Skills and Technologies
 
