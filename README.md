@@ -4,8 +4,16 @@ An enthusiastic individual with a passion for all things software. How it works,
 
 ## Code Examples
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Project Name | Description  |
+| ------------ |:------------:|
+| col 3 is     | right-aligned|
+| col 2 is     | centered     |
+| zebra stripes| are neat     |
+
+## Technical Skills and Technologies
+
+|               | Most Comfortable | Comfortable | Touched On |
+| ------------- |:----------------:| -----------:| ---------: |
+| col 3 is      | right-aligned    | $1600       |            |
+| col 2 is      | centered         |   $12       |            |
+| zebra stripes | are neat         |    $1       |            |
