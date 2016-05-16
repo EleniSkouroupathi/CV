@@ -17,8 +17,8 @@ An enthusiastic individual with a passion for all things software. How it works,
 | Languages     | Ruby, JavaScript, CSS3, HTML5| jQuery      | Java, Python, C++|
 | Databases/ORMS| PostGresQL                   | Firebase    |                  |
 | Frameworks    | Sinatra                      | Node.js, Ruby on Rails, AngularJS, Ionic, Bootstrap|            |
-| Testing       | are neat         |    $1       |            |
-| Other         | are neat         |    $1       |            |
+| Testing       | RSpec, Jasmine, Capybara         |           | Karma, Protractor|
+| Other         | Version Control through Github & Waffle        | Heroku Deployment, agile methodologies     |            |
 
 ## Education
 
