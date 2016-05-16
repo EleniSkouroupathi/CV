@@ -37,7 +37,7 @@ BEng in Civil Engineering
 
 **Consultant Intern**, Hyder Consulting: July 2013 - August 2013
 
-Attended meetings with clients and site investigations. Proofread documents for errors. Created structural drawings for my mentor to use in meetings.
+Regularly attended meetings with clients, and site investigations. Proofread documents for errors, and created structural drawings for my mentor to use in meetings.
 
 My experience at Hyder gave me valuable insight into the runnings of a company.
 
