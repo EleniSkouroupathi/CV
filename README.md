@@ -12,11 +12,13 @@ An enthusiastic individual with a passion for all things software. How it works,
 
 ## Technical Skills and Technologies
 
-|               | Most Comfortable | Comfortable | Touched On |
-| ------------- |:----------------:| -----------:| ---------: |
-| col 3 is      | right-aligned    | $1600       |            |
-| col 2 is      | centered         |   $12       |            |
-| zebra stripes | are neat         |    $1       |            |
+|               | Most Comfortable             | Comfortable | Touched On       |
+| ------------- |:---------------------------- | ----------- | ---------------  |
+| Languages     | Ruby, JavaScript, CSS3, HTML5| jQuery      | Java, Python, C++|
+| Databases/ORMS| PostGresQL                   | Firebase    |                  |
+| Frameworks    | Sinatra                      | Node.js, Ruby on Rails, AngularJS, Ionic, Bootstrap|            |
+| Testing       | are neat         |    $1       |            |
+| Other         | are neat         |    $1       |            |
 
 ## Education
 
