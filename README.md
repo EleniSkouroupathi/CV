@@ -17,3 +17,18 @@ An enthusiastic individual with a passion for all things software. How it works,
 | col 3 is      | right-aligned    | $1600       |            |
 | col 2 is      | centered         |   $12       |            |
 | zebra stripes | are neat         |    $1       |            |
+
+## Education
+
+### Makers Academy, London (October 2015 - January 2016)
+
+Highly selective 12 week intensive coding bootcamp.
+
+* Focused on pair programming, test driven development, agile practices
+* Object oriented programming, software design
+* Full stack web development
+* Final project: GymBuddy - a mobile app for gym goers to better connect with each other.
+
+### Kingston University, UK (September 2012 - June 2015)
+
+BEng in Civil Engineering
