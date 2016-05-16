@@ -32,3 +32,7 @@ Highly selective 12 week intensive coding bootcamp.
 ### Kingston University, UK (September 2012 - June 2015)
 
 BEng in Civil Engineering
+
+## Interests
+
+Kickboxing, chess, and videgames. Also regularly create original content for meme websites.
