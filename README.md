@@ -33,6 +33,18 @@ Highly selective 12 week intensive coding bootcamp.
 
 BEng in Civil Engineering
 
+## Work Experience
+
+### Makers Academy, London (October 2015 - January 2016)
+
+Highly selective 12 week intensive coding bootcamp.
+
+**Consultant Intern**, Hyder Consulting: July 2013 - August 2013
+
+Attended meetings with clients and site investigations. Proofread documents for errors. Created structural drawings for my mentor to use in meetings.
+
+My experience at Hyder gave me valuable insight into the runnings of a company.
+
 ## Interests
 
-Kickboxing, chess, and videgames. Also regularly create original content for meme websites.
+Kickboxing, drawing, chess, and videgames. I also regularly create original funny content for meme websites.
