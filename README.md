@@ -1,6 +1,6 @@
 # Eleni Skouroupathi
 
-An enthusiastic individual with a passion for all things software. How it works, how it is made, and most importantly, how to make it. I have come to possess a keen affinity for design on all levels: from a beautiful UI/UX to well written design pattern. Actively seeking a developer role.
+A quirky/geeky individual with a passion for all things tech. I studied civil engineering at university, but decided to go into software development as I loved the feeling of being able to instantly transform a project with nothing more than my keyboard. Actively seeking a junior developer role.
 
 ## Code Examples
 
